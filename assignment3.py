@@ -1,4 +1,4 @@
-'''*Q1*'''
+'''Q1'''
 l = []
 limit = int(input('Enter number of elements: '))
 print("Enter the list")
